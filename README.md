@@ -74,7 +74,7 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 **Skill Vertex – Cybersecurity Intern (Aug 2023 – Sep 2023)** 
 
-**Corizo [Internship]() Certificates**
+**Corizo [Internship](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/SKill%20Vertex.pdf) Certificates**
 - Built an AES-based image encryption app; improved data security and GUI flow by 40%.
 
 **Verzeo – Cybersecurity Intern (June 2022 – July 2022)**  
