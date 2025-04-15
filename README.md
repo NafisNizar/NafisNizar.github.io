@@ -37,15 +37,15 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 - Developed a Python GUI app using Tkinter for secure AES-256 image encryption and decryption.
 - Outcome: Improved encryption workflow efficiency by 40%.
 
-### [OWASP Top 10 Web Pentesting](https://github.com/NafisNizar/owasp-top10-testing)
+### OWASP Top 10 Web Pentesting
 - Simulated attacks on intentionally vulnerable web applications.
 - Identified and exploited XSS, SQLi, IDOR, CSRF using Burp Suite, Metasploit, Sqlmap.
 
-### [Active Directory Penetration Testing](https://github.com/NafisNizar/ad-penetration-testing)
+### Active Directory Penetration Testing
 - Lab-based AD exploitation with tools like BloodHound, CrackMapExec, and Mimikatz.
 - Outcome: Successfully escalated privileges and generated detailed attack paths.
 
-### [Windows & Linux Post-Exploitation](https://github.com/NafisNizar/os-post-exploitation)
+### Windows & Linux Post-Exploitation
 - Performed privilege escalation and credential dumping using system-level exploits.
 
 ### [Virtual Cybersecurity Experiences](#)
