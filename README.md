@@ -24,10 +24,12 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 ## Certifications
 
 - **Certified Ethical Hacker (CEH)** – *Pursuing*
-- **Advanced Penetration Tester (APT)** – RedTeam Hacker Academy
-- **Computer Forensics Best Practices** – EC-Council
-- **Metasploit Essentials** – LinkedIn Learning
-- **Introduction to Cyber Security** – TryHackMe
+- **[Advanced Penetration Tester (APT)]()** – RedTeam Hacker Academy
+- **[Computer Forensics Best Practices]()** – EC-Council
+- **[Metasploit Essentials]()** – LinkedIn Learning
+- **[Introduction to Cyber Security]()** – TryHackMe
+- **[Pre Security]()** – TryHackMe
+- **[JPMorgan Chase Virtual Job Simulatio]()** – Forage
 
 ---
 
