@@ -1,7 +1,7 @@
 # Nafis Mohammed Nizar
 
 **Penetration Tester | Security Analyst | CEH (Pursuing)**  
-📍 Dubai, UAE | ✉ nafismohammednizar@gmail.com | [LinkedIn](https://linkedin.com/in/nafismohammednizar) | [GitHub](https://github.com/NafisNizar)
+✉ nafismohammednizar@gmail.com | [LinkedIn](https://linkedin.com/in/nafismohammednizar) | [GitHub](https://github.com/NafisNizar)
 
 ---
 
