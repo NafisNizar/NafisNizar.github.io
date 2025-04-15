@@ -65,7 +65,9 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 ## Internships
 
-**Corizo – Penetration Testing Intern (Apr 2024 – May 2024)**  
+**Corizo – Penetration Testing Intern (Apr 2024 – May 2024)**
+**Corizo [Trainning]() and [Intership](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Corizo-Trainning.pdf) Certificates]**
+
 - Performed 15+ tests on web apps, networks, and systems.
 - Documented and mitigated 20+ vulnerabilities; improved overall security posture by 30%.
 
