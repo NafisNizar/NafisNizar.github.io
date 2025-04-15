@@ -67,12 +67,14 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 **Corizo – Penetration Testing Intern (Apr 2024 – May 2024)**
 
-**Corizo [Trainning]() and [Intership](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Corizo-Trainning.pdf) Certificates**
+**Corizo [Trainning](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Corizo-Trainning.pdf) and [Intership](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Corizo_Intership.png) Certificates**
 
 - Performed 15+ tests on web apps, networks, and systems.
 - Documented and mitigated 20+ vulnerabilities; improved overall security posture by 30%.
 
-**Skill Vertex – Cybersecurity Intern (Aug 2023 – Sep 2023)**  
+**Skill Vertex – Cybersecurity Intern (Aug 2023 – Sep 2023)** 
+
+**Corizo [Internship]() Certificates**
 - Built an AES-based image encryption app; improved data security and GUI flow by 40%.
 
 **Verzeo – Cybersecurity Intern (June 2022 – July 2022)**  
