@@ -25,11 +25,18 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 - **Certified Ethical Hacker (CEH)** – *Pursuing*
 - **[Advanced Penetration Tester (APT)](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/RedTeam-APT-Certificate.pdf)** – RedTeam Hacker Academy
-- **[Computer Forensics Best Practices]()** – EC-Council
-- **[Metasploit Essentials]()** – LinkedIn Learning
-- **[Introduction to Cyber Security]()** – TryHackMe
-- **[Pre Security]()** – TryHackMe
-- **[JPMorgan Chase Virtual Job Simulatio]()** – Forage
+- **[Computer Forensics Best Practices](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/EC-Council_Computer_Forensic_Best_Practices.png
+)** – EC-Council
+- **[Metasploit Essentials](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Metasploit%20_LinkedIn_Learning_Certificate.pdf
+)** – LinkedIn Learning
+- **[Introduction to Cyber Security](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/TryHackMe-Introduction-to-Cyber-Security.png
+)** – TryHackMe
+- **[Pre Security](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/TryHackMe-Pre-Security.png
+)** – TryHackMe
+- **[JPMorgan Chase Virtual Job Simulatio](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/JPMorgan%20Chase%20%26%20Co._completion_certificate.pdf
+)** – Forage
+- **[Mastercard Virtual Job Simulatio](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/Mastercard_completion_certificate.pdf
+)** – Forage
 
 ---
 
