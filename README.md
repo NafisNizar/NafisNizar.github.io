@@ -33,7 +33,7 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 ## Projects
 
-### [AES Image Encryption Tool](git@github.com:NafisNizar/Image-Encryption-Decryption-using-AES.git)
+### [AES Image Encryption Tool](https://github.com/NafisNizar/Image-Encryption-Decryption-using-AES)
 - Developed a Python GUI app using Tkinter for secure AES-256 image encryption and decryption.
 - Outcome: Improved encryption workflow efficiency by 40%.
 
