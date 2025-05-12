@@ -23,7 +23,8 @@ Cybersecurity enthusiast with hands-on experience in Penetration Testing, Web & 
 
 ## Certifications
 
-- **Certified Ethical Hacker (CEH)** – *Pursuing*
+- **[Certified Ethical Hacker (CEH)](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/ECC-Evaluation-Certificate.pdf)** – *Training Completed, Exam Pending – EC-Council
+*
 - **[Advanced Penetration Tester (APT)](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/RedTeam-APT-Certificate.pdf)** – RedTeam Hacker Academy
 - **[Computer Forensics Best Practices](https://github.com/NafisNizar/NafisNizar/blob/main/Certificates/EC-Council_Computer_Forensic_Best_Practices.png
 )** – EC-Council
